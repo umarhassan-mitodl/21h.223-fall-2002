@@ -5,8 +5,6 @@ description: Writing assignment on readings by William James, Theodore Roosevelt
 file: /courses/21h-223-war-american-society-fall-2002/5410a40c240746bb326953e4b71b2c7f_war_sec_assig902.pdf
 file_size: 55298
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

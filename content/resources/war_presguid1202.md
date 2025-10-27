@@ -4,8 +4,6 @@ description: Grading criteria for final presentations for the course.
 file: /courses/21h-223-war-american-society-fall-2002/2e7374f813b76162e0fb1d4ee7061350_war_presguid1202.pdf
 file_size: 61506
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

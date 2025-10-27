@@ -4,8 +4,6 @@ description: Assignment to give a presentation to the class on current events.
 file: /courses/21h-223-war-american-society-fall-2002/f1709112b53ba0bac9f85bf754a9b690_war_preshand1102.pdf
 file_size: 88491
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

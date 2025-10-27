@@ -5,8 +5,6 @@ description: Writing assignment on how The Vietnam War may be an exception in th
 file: /courses/21h-223-war-american-society-fall-2002/45c278173025974014a95ce86698b0b8_war_4_assig1102.pdf
 file_size: 63840
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

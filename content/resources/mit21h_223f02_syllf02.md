@@ -5,8 +5,6 @@ description: This syllabus provides a course description and information on requ
 file: /courses/21h-223-war-american-society-fall-2002/6b14ecb4bcd181097a45a19226e620bc_MIT21H_223f02_syllf02.pdf
 file_size: 134217
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -6,8 +6,6 @@ description: 'Writing assignment based on original documents by Abraham Lincoln 
 file: /courses/21h-223-war-american-society-fall-2002/7789002d9ff85101928c4650df20d874_war_fir_assig902.pdf
 file_size: 70733
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

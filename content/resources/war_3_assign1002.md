@@ -5,8 +5,6 @@ description: Short writing assignment on a single figure from World War II and h
 file: /courses/21h-223-war-american-society-fall-2002/ede54a84d675d0dfec90565282ab90cb_war_3_assign1002.pdf
 file_size: 63142
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
